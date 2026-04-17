@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Seam Runtime"
+  short_description: "Work on the local SEAM runtime repo"
+  default_prompt: "Inspect the SEAM repo docs, edit the relevant runtime modules, and verify the change with focused commands or tests."

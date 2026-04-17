@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome Design MD"
+  short_description: "Install and apply brand-inspired DESIGN.md files"
+  default_prompt: "Choose a fitting brand inspiration, install its DESIGN.md into this project, and use it as the design brief for the UI work."
